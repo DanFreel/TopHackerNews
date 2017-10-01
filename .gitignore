@@ -1,0 +1,4 @@
+# Exclude Intellij Artifacts
+/.idea
+/out
+/TopHackerNews.iml
